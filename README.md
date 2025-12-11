@@ -2,7 +2,7 @@
 
 ![Swift UI](https://img.shields.io/badge/Swift-UI-green.svg)
 
-This README contains all SwiftUI demos by **Ahmed Atia (20223)**.
+This README contains all SwiftUI demos by **Ahmed Atia (2023)**.
 
 ---
 
