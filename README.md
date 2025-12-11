@@ -17,9 +17,6 @@ This README contains all SwiftUI demos by **Ahmed Atia (2023)**.
 **Magic Dividing Line**  
 [![Magic Dividing Line](SwiftUI_Demos/MagicDividingLineView/MagicDividingLineView.gif)](SwiftUI_Demos/MagicDividingLineView)
 
-**Hello Animation**  
-[![Hello Animation](SwiftUI_Demos/HelloAnimation/HelloAnimation.gif)](SwiftUI_Demos/HelloAnimation)
-
 **Char Rain**  
 [![Char Rain](SwiftUI_Demos/CharRain/CharRain.gif)](SwiftUI_Demos/CharRain)
 
@@ -148,6 +145,9 @@ This README contains all SwiftUI demos by **Ahmed Atia (2023)**.
 
 **Simple Todo View**  
 [![Simple Todo View](SwiftUI_Demos/SimpleTodoView/SimpleTodoView.gif)](SwiftUI_Demos/SimpleTodoView)
+
+**Hello Animation**  
+[![Hello Animation](SwiftUI_Demos/HelloAnimation/HelloAnimation.gif)](SwiftUI_Demos/HelloAnimation)
 
 ---
 
