@@ -23,9 +23,6 @@ This README contains all SwiftUI demos by **Ahmed Atia (2023)**.
 **Char Rain**  
 [![Char Rain](SwiftUI_Demos/CharRain/CharRain.gif)](SwiftUI_Demos/CharRain)
 
-**Glitch Effect**  
-[![Glitch Effect](SwiftUI_Demos/GlitchEffect/GlitchEffect.gif)](SwiftUI_Demos/GlitchEffect)
-
 **Hacker Text**  
 [![Hacker Text](SwiftUI_Demos/HackerText/HackerText.gif)](SwiftUI_Demos/HackerText)
 
