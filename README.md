@@ -35,9 +35,6 @@ This README contains all SwiftUI demos by **Ahmed Atia (20223)**.
 **TabView Offset**  
 [![TabView Offset](SwiftUI_Demos/TabViewOffset/TabViewOffset.gif)](SwiftUI_Demos/TabViewOffset)
 
-**Flip Transition**  
-[![Flip Transition](SwiftUI_Demos/FlipTransition/FlipTransition.gif)](SwiftUI_Demos/FlipTransition)
-
 **Animated Charts**  
 [![Animated Charts](SwiftUI_Demos/AnimatedCharts/AnimatedCharts.gif)](SwiftUI_Demos/AnimatedCharts)
 
@@ -70,9 +67,6 @@ This README contains all SwiftUI demos by **Ahmed Atia (20223)**.
 
 **Material Carousel View**  
 [![Material Carousel View](SwiftUI_Demos/MaterialCarouselView/MaterialCarouselView.gif)](SwiftUI_Demos/MaterialCarouselView)
-
-**Movie Banner View**  
-[![Movie Banner View](SwiftUI_Demos/MovieBannerView/MovieBannerView.gif)](SwiftUI_Demos/MovieBannerView)
 
 **Parallax Carousel**  
 [![Parallax Carousel](SwiftUI_Demos/ParallaxCarousel/ParallaxCarousel.gif)](SwiftUI_Demos/ParallaxCarousel)
@@ -119,17 +113,11 @@ This README contains all SwiftUI demos by **Ahmed Atia (20223)**.
 **Shimmer Animation View**  
 [![Shimmer Animation View](SwiftUI_Demos/ShimmerAnimationView/ShimmerAnimationView.gif)](SwiftUI_Demos/ShimmerAnimationView)
 
-**Spot Light View**  
-[![Spot Light View](SwiftUI_Demos/SpotLightView/SpotLightView.gif)](SwiftUI_Demos/SpotLightView)
-
 **Show Case View**  
 [![Show Case View](SwiftUI_Demos/ShowCaseView/ShowCaseView.gif)](SwiftUI_Demos/ShowCaseView)
 
 **Widget View**  
 [![Widget View](SwiftUI_Demos/WidgetView/WidgetView.gif)](SwiftUI_Demos/WidgetView)
-
-**Dynamic Notification View**  
-[![Dynamic Notification View](SwiftUI_Demos/DynamicNotificationView/DynamicNotificationView.gif)](SwiftUI_Demos/DynamicNotificationView)
 
 **Custom Tab Bar 1**  
 [![Custom Tab Bar 1](SwiftUI_Demos/CustomTabBar1/CustomTabBar1.gif)](SwiftUI_Demos/CustomTabBar1)
